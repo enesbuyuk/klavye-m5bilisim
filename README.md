@@ -1,4 +1,5 @@
 ## klavye-m5bilisim
+m5bilisim sitesindeki klavye testlerini çok daha hızlı geçmenizi sağlayan araç :)
 
 <p align="center">
   <img src="https://i02.appmifile.com/843_bbs_en/22/11/2020/3d5c977a91.gif" alt=""/>
